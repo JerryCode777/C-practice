@@ -1,0 +1,4 @@
+Obtemer el promedio de calificaciones de n alumnos e indicar
+si el grupo tiene un promedio aprobatorio > 10.5. Todas las
+calificaciones son reales y el programa debera verificar si cada
+calificacion esta  en escala de 0 a 20.
